@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaveInv", "SpaveInv\SpaveInv.csproj", "{EC411D67-8E38-4AEA-9CBB-68F08A824798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC411D67-8E38-4AEA-9CBB-68F08A824798}.Debug|x86.ActiveCfg = Debug|x86
+		{EC411D67-8E38-4AEA-9CBB-68F08A824798}.Debug|x86.Build.0 = Debug|x86
+		{EC411D67-8E38-4AEA-9CBB-68F08A824798}.Release|x86.ActiveCfg = Release|x86
+		{EC411D67-8E38-4AEA-9CBB-68F08A824798}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36072675-1993-4EBE-873F-496B8A32BF3B}
+	EndGlobalSection
+EndGlobal
